@@ -1,0 +1,6 @@
+CEDAR_data_set.zip
+signature_model.keras
+signature_verification_model.h5
+final_signature_model.h5
+GPDS/archive.zip
+signatures
